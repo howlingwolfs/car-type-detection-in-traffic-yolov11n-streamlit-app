@@ -1,0 +1,9 @@
+# Virtual Environment
+.venv/
+
+# Python artifacts
+__pycache__/
+*.pyc
+
+# IDE files (JetBrains)
+.idea/
